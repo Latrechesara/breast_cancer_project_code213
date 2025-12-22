@@ -29,7 +29,7 @@ header = html.Header([
 # Footer
 # ----------------------------#
 footer = html.Footer([
-    html.Div("© 2025 Breast Cancer Analysis | October Rose Theme", className="footer")
+    html.Div("© 2025 Latreche Sara|Breast Cancer Analysis", className="footer")
 ])
 
 # ----------------------------#
