@@ -12,7 +12,7 @@ app = dash.Dash(
     suppress_callback_exceptions=True,
     title="Breast Cancer Dashboard"
 )
-
+server = app.server
 # ----------------------------#
 # Header
 # ----------------------------#
