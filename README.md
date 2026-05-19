@@ -1,25 +1,30 @@
 # 🎗️ Breast Cancer Prediction & Analytics Dashboard
 
+An end-to-end Machine Learning and Data Visualization project for Breast Cancer Prediction using Python, Scikit-learn, Plotly Dash, and modern Data Science workflows.
 
-A complete Machine Learning and Data Visualization project for Breast Cancer Prediction using Python, Scikit-learn, Plotly Dash, and modern Data Science workflows.
+ **Live Demo:**  
+https://huggingface.co/spaces/hellosara/Breast_cancer_project
+<img width="589" height="586" alt="breast_cancer_dash" src="https://github.com/user-attachments/assets/85468579-9915-45b3-9c96-4959b9d64157" />
 
-This repository contains:
-- 📊 Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning Model Training & Comparison
-- 📈 Interactive Plotly Dash Dashboard
-- 🧠 Breast Cancer Prediction Models
-- 🎨 Modern Visualization Interface
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 The objective of this project is to analyze breast cancer datasets and build predictive machine learning models capable of classifying tumors as:
 
 - Malignant
 - Benign
 
-The project also includes a fully interactive dashboard developed with Plotly Dash for data exploration and visualization.
+The project also includes a fully interactive Plotly Dash dashboard for data exploration, visualization, and machine learning insights.
+
+---
+
+# 🌐 Live Application
+
+You can access the deployed application here:
+
+👉 https://huggingface.co/spaces/hellosara/Breast_cancer_project
 
 ---
 
@@ -47,7 +52,7 @@ breast_cancer_project_code213/
 
 ---
 
-# 🧪 Technologies Used
+#  Technologies Used
 
 ## Programming Language
 - Python
@@ -64,19 +69,19 @@ breast_cancer_project_code213/
 
 ---
 
-# 📊 Features
+#  Features
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 - Data cleaning
-- Missing values analysis
+- Missing value analysis
 - Correlation heatmaps
-- Statistical analysis
 - Tumor diagnosis distribution
 - Feature visualization
+- Statistical insights
 
 ---
 
-## 🤖 Machine Learning Pipeline
+##  Machine Learning Pipeline
 - Data preprocessing
 - Feature engineering
 - Feature scaling
@@ -87,20 +92,20 @@ breast_cancer_project_code213/
 
 ---
 
-## 📈 Interactive Dashboard
+##  Interactive Dashboard
 The Plotly Dash dashboard includes:
 - Interactive charts
 - Dynamic visualizations
-- Model insights
-- Responsive dashboard layout
+- Responsive UI
 - Multi-page navigation
 - Real-time data exploration
+- Machine learning insights
 
 ---
 
-# 🧠 Machine Learning Models
+#  Machine Learning Models
 
-The project experiments with multiple ML algorithms including:
+The project experiments with multiple machine learning algorithms including:
 
 - Logistic Regression
 - Random Forest
@@ -110,7 +115,7 @@ The project experiments with multiple ML algorithms including:
 
 ---
 
-# 📉 Evaluation Metrics
+#  Evaluation Metrics
 
 The models are evaluated using:
 - Accuracy
@@ -124,7 +129,7 @@ The models are evaluated using:
 
 # ⚙️ Installation
 
-## 1️⃣ Clone the Repository
+##  Clone the Repository
 
 ```bash
 git clone https://github.com/Latrechesara/breast_cancer_project_code213.git
@@ -132,7 +137,7 @@ git clone https://github.com/Latrechesara/breast_cancer_project_code213.git
 
 ---
 
-## 2️⃣ Navigate to the Project Directory
+##  Navigate to the Project Directory
 
 ```bash
 cd breast_cancer_project_code213
@@ -140,7 +145,7 @@ cd breast_cancer_project_code213
 
 ---
 
-## 3️⃣ Install Dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -148,7 +153,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Running the Dashboard
+#  Running the Dashboard Locally
 
 Navigate to the dashboard folder:
 
@@ -162,7 +167,7 @@ Run the Dash application:
 python app.py
 ```
 
-The dashboard will run locally at:
+The application will run locally at:
 
 ```bash
 http://127.0.0.1:8050/
@@ -170,39 +175,35 @@ http://127.0.0.1:8050/
 
 ---
 
-# 📁 Notebooks Description
+# ☁️ Deployment
 
-| Notebook | Description |
-|---|---|
-| 1-Exploratory_Data_Analysis.ipynb | Data analysis and visualization |
-| 2-Model_Training_Comparison.ipynb | Comparing machine learning models |
-| 3-Final_model_Breast_cancer_model.ipynb | Final optimized breast cancer model |
-| Breast_cancer_model_training.ipynb | Additional training experiments |
+This project is deployed on Hugging Face Spaces.
+
+### Live Demo
+https://huggingface.co/spaces/hellosara/Breast_cancer_project
+
+### Deployment Technologies
+- Hugging Face Spaces
+- Plotly Dash
+- Python
 
 ---
 
-# 🌐 Deployment
+#  Notebooks Description
 
-This project includes:
-- Procfile
-- requirements.txt
-
-making it deployment-ready for:
-- Heroku
-- Render
-- Railway
+| Notebook | Description |
+|---|---|
+| 1-Exploratory_Data_Analysis.ipynb | Data exploration and visualization |
+| 2-Model_Training_Comparison.ipynb | Training and comparing ML models |
+| 3-Final_model_Breast_cancer_model.ipynb | Final optimized model |
+| Breast_cancer_model_training.ipynb | Additional model experiments |
 
 ---
 
 # 📸 Dashboard Preview
 
-Add dashboard screenshots inside the `images/` folder.
+<img width="1294" height="598" alt="breaset_cancer" src="https://github.com/user-attachments/assets/ef6e5ccd-a67b-4894-9b17-cfdd1b9f490e" />
 
-Example:
-
-```markdown
-![Dashboard Screenshot](images/dashboard.png)
-```
 
 ---
 
@@ -210,10 +211,10 @@ Example:
 
 - Deep Learning integration
 - Explainable AI (XAI)
-- Cloud deployment
 - Docker containerization
 - Real-time prediction API
-- Medical analytics enhancements
+- Advanced medical analytics
+- Cloud scalability
 
 ---
 
@@ -234,6 +235,7 @@ https://github.com/Latrechesara
 # ⭐ Support
 
 If you like this project:
+
 - ⭐ Star the repository
 - 🍴 Fork the project
 - 📢 Share it with others
