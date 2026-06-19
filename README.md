@@ -211,7 +211,7 @@ https://huggingface.co/spaces/hellosara/Breast_cancer_project
 
 - Deep Learning integration
 - Explainable AI (XAI)
-- Docker containerization
+  
 - Real-time prediction API
 - Advanced medical analytics
 - Cloud scalability
